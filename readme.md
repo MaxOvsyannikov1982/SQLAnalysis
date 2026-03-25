@@ -23,5 +23,6 @@
 1. Создайте базу данных в PostgreSQL.
 2. Выполните SQL-файлы строго по порядку их нумерации.
 3. Ознакомьтесь с результатами в логах или через BI-инструмент.
+<img width="611" height="324" alt="image" src="https://github.com/user-attachments/assets/901ea10d-5474-4156-a792-c0648f0bc650" />
 
 ![Скриншот PostgreSQL](img/screen.jpg)
